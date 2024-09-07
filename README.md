@@ -1,7 +1,8 @@
 ### Hi There!
 
-I'm Great Ekwueme, A Developer and aspiring software engineer currently enrolled
-at ALX and AltSchool's software engineering programs.
+I'm Great Ekwueme, A Developer and aspiring Software Engineer.
+
+I am an alumnus of AltSchool Africa and a Computer Science student at the University Of Nigeria.
 
 I love coding and I am very passionate about solving problems through code.
 
